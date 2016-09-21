@@ -66,22 +66,14 @@ public class MainActivity extends AppCompatActivity {
             hasil = rbXII.getText().toString();
         }
 
-        if (hasil == null) {
-            tvRB.setText("Belum memilih kelas");
-        } else {
-            tvRB.setText("kelas :" + hasil);
-        }
-        String cb = "jabatan anda : ";
-        int startlen = cb.length();
-        if (cbPengurus.isChecked()) cb += cbPengurus.getText() + ", ";
-        if (cbGuru.isChecked()) cb += cbGuru.getText() + ", ";
-        if (cbAnggota.isChecked()) cb += cbAnggota.getText() + ", ";
+
 
         if (cb.length() == startlen) cb += "Bukan anggota, pengurus dan guru";
         tvCB.setText(cb);
         tvSP.setText("kategori buku : " + spRak.getSelectedItem());
 
-
+        float[] i = new float[]{ratB.getRating()};
+        tvRat.setText("adalah: " + i[0]);
     }
 
 }
