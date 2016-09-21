@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kategori">
+        <item> Kamus </item>
+        <item> ensiklopedia</item>
+        <item> novel</item>
+        <item> majalah</item>
+        <item> buku pengetahuan</item>
+        <item> IT</item>
+    </string-array>
+</resources>
