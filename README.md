@@ -13,3 +13,6 @@ dimana anggota di bedakan mendaji 3 yaitu kelas X, XI, dan XII
 link apk : https://drive.google.com/open?id=0B7XbuGL072jNc29lcUkxaUZ4NWc
 contoh fotonya adalah sebagai berikut :
 
+![capture1](https://cloud.githubusercontent.com/assets/22352314/18723311/33bcb04e-8062-11e6-8d92-668c9eb85a05.PNG)
+![capture2](https://cloud.githubusercontent.com/assets/22352314/18723329/4e4af722-8062-11e6-8666-f7db5f7fc7d9.PNG)
+![capture3](https://cloud.githubusercontent.com/assets/22352314/18723337/53954a34-8062-11e6-8681-4d73cb6b42b9.PNG)
