@@ -81,9 +81,6 @@ public class MainActivity extends AppCompatActivity {
         tvCB.setText(cb);
         tvSP.setText("kategori buku : " + spRak.getSelectedItem());
 
-        float[] i = new float[]{ratB.getRating()};
-        tvRat.setText("adalah: " + i[0]);
-
 
     }
 
